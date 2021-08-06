@@ -1,0 +1,1 @@
+python detect_gender.py -i test.jpg
